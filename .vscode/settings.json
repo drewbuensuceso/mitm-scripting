@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "mitm_env/bin/python",
+    "git.ignoreLimitWarning": true
+}
